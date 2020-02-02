@@ -1,3 +1,7 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
+[submodule "yuanlinping.github.io"]
+	path = yuanlinping.github.io
+	url = https://github.com/yuanlinping/yuanlinping.github.io.git
+	branch = master
